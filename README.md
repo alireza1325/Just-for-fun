@@ -1,6 +1,8 @@
 # Just-for-fun
 Voice controllable RC car (Persian language)
 
+![Picture2](https://user-images.githubusercontent.com/57262710/218384855-5a8bb12d-b11a-45dd-a1ec-0ed307ca0668.png)
+
 In this project, I intended to control a four-wheeled robot by sending a voice command. For example, when we say 10 cm forward, the robot should move 10 cm forward, or rotate in different directions and different angles. 
 
 For this purpose, it is first necessary to convert the voice command into text in Python software, then process that text, and finally convert it to URL code. This is all that is done on a PC. As such, the computational load and text processing is removed from NodeMCU microcontroller.
